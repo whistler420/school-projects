@@ -1,0 +1,1 @@
+options = [['1. ','2. ','2. ','4. ']['Flip the image.\n','Resize the image.\n','Modify color channels.\n','Close the program.']]
